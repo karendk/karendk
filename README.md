@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karendk
 - 👀 I’m interested in artificial intelegent
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning AI Agent
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me karenmakus@gmail.com
 
